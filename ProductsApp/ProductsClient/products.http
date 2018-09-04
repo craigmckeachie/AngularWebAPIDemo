@@ -1,0 +1,8 @@
+GET http://localhost:57144/api/products
+Accept: application/json
+Origin: http://localhost:57144/
+
+
+###
+GET http://localhost:57144/api/products/1
+Accept: application/json
