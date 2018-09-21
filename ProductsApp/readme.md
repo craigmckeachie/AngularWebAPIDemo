@@ -7,7 +7,7 @@
 - npm (version >=5)
 - Angular CLI
 
-### Steps
+### Running the Application
 
 1. Backend: `ProductsApp/ProductsApp`
     - Right-click > Restore Packages
